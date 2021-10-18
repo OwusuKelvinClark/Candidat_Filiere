@@ -1,0 +1,14 @@
+D:\windows_back_up\est\s3\c#\devoirs\Candidat_Filiere\Candidat_Filiere\bin\Debug\netcoreapp3.1\Candidat_Filiere.exe
+D:\windows_back_up\est\s3\c#\devoirs\Candidat_Filiere\Candidat_Filiere\bin\Debug\netcoreapp3.1\Candidat_Filiere.deps.json
+D:\windows_back_up\est\s3\c#\devoirs\Candidat_Filiere\Candidat_Filiere\bin\Debug\netcoreapp3.1\Candidat_Filiere.runtimeconfig.json
+D:\windows_back_up\est\s3\c#\devoirs\Candidat_Filiere\Candidat_Filiere\bin\Debug\netcoreapp3.1\Candidat_Filiere.runtimeconfig.dev.json
+D:\windows_back_up\est\s3\c#\devoirs\Candidat_Filiere\Candidat_Filiere\bin\Debug\netcoreapp3.1\Candidat_Filiere.dll
+D:\windows_back_up\est\s3\c#\devoirs\Candidat_Filiere\Candidat_Filiere\bin\Debug\netcoreapp3.1\Candidat_Filiere.pdb
+D:\windows_back_up\est\s3\c#\devoirs\Candidat_Filiere\Candidat_Filiere\obj\Debug\netcoreapp3.1\Candidat_Filiere.csproj.AssemblyReference.cache
+D:\windows_back_up\est\s3\c#\devoirs\Candidat_Filiere\Candidat_Filiere\obj\Debug\netcoreapp3.1\Candidat_Filiere.GeneratedMSBuildEditorConfig.editorconfig
+D:\windows_back_up\est\s3\c#\devoirs\Candidat_Filiere\Candidat_Filiere\obj\Debug\netcoreapp3.1\Candidat_Filiere.AssemblyInfoInputs.cache
+D:\windows_back_up\est\s3\c#\devoirs\Candidat_Filiere\Candidat_Filiere\obj\Debug\netcoreapp3.1\Candidat_Filiere.AssemblyInfo.cs
+D:\windows_back_up\est\s3\c#\devoirs\Candidat_Filiere\Candidat_Filiere\obj\Debug\netcoreapp3.1\Candidat_Filiere.csproj.CoreCompileInputs.cache
+D:\windows_back_up\est\s3\c#\devoirs\Candidat_Filiere\Candidat_Filiere\obj\Debug\netcoreapp3.1\Candidat_Filiere.dll
+D:\windows_back_up\est\s3\c#\devoirs\Candidat_Filiere\Candidat_Filiere\obj\Debug\netcoreapp3.1\Candidat_Filiere.pdb
+D:\windows_back_up\est\s3\c#\devoirs\Candidat_Filiere\Candidat_Filiere\obj\Debug\netcoreapp3.1\Candidat_Filiere.genruntimeconfig.cache
