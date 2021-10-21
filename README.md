@@ -1,7 +1,7 @@
 # Système de gestion du filiere étudiant
 
 > Il s'agit d'un petit programme qui montre comment les étudiants sont sélectionnés dans divers domaines d'études en utilisant leur score d'examen.
-> Ce programme résout le problème en utilisant l'algorithme de Gale et Shapley.   
+> Ce programme résout le problème en utilisant **l'algorithme de Gale et Shapley**.   
 > Vous trouverez ci-dessous un exemple de capture d'écran extrait du programme. Les étudiants sont autorisés à choisir un maximum de trois domaines. Chaque domaine prend également au plus trois étudiants (Tous les paramètres peuvent être ajustés pour répondre aux besoins requis).
 > ![Sample program](./screenshots/Owusu_Kelvin_Clark_Candidat_Filiere.png)
 
