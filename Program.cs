@@ -101,6 +101,8 @@ namespace Candidat_Filiere
             aSR.printCandidats();
         }
 
+        /// <summary>Performs the selection of students into their Option</summary>
+        /// <param name="candidats">candidats.</param>
         static void processRequests(List<Candidat> candidats)
         {
             candidats.ForEach(candidat =>
