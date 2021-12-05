@@ -162,7 +162,7 @@ static void processRequests(List<Candidat> candidats)
         }
 ```
 
-### Creadits
+### Credits
 
 ---
 
